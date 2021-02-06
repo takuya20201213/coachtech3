@@ -111,6 +111,7 @@ input, select {
 .header {
     height: 70px;
     background: #000;
+    color: white;
 }
 
 .header-wrap {
@@ -211,6 +212,10 @@ input, select {
     position: relative;
 }
 
+.white-1 {
+    height: 35%;
+    width: 100%;
+}
 .black-1 h2{
     font-weight: bold;
     font-size: 20px;
@@ -247,4 +252,292 @@ input, select {
 
 .box1 p{
     margin-bottom: 15px;
+}
+
+.orenge {
+    width: 500px;
+    height: 350px; 
+    position: absolute;
+    top:30%;
+    right: 10%;
+
+}
+.main-2 {
+    height: 1200px;
+    width: 100%;
+    background-color: #dddddd;
+    position: relative;
+
+}
+
+.section-title1 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+.camera {
+    width: 750px;
+    height: 450px;
+    position: absolute;
+    top: 8%;
+    right: 0;
+}
+
+.white-2 {
+    height: 250px;
+    width: 550px;
+    background-color: white;
+    position: absolute;
+    top:13%;
+    left: 20%;
+    position: relative;
+
+}
+
+.honou {
+    width: 750px;
+    height: 450px;
+    position: absolute;
+    top: 55%;
+    left: 0;
+}
+
+.white-3 {
+    height: 250px;
+    width: 550px;
+    background-color: white;
+    position: absolute;
+    top: 62%;
+    right: 20%;
+}
+
+.web {
+    font-size: 14px;
+}
+
+.daimei-1 {
+    font-size: 12px;
+    margin-top: 13px;
+    margin-bottom: 12px;
+    font-weight: bold;
+}
+
+.daimei-2 {
+    font-size: 12px;
+    margin-bottom: 12px;
+    font-weight: bold;
+}
+
+.bun {
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: bold;
+
+}
+
+.mozi-1 {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    padding-right: 60px;
+    padding-left: 10px;
+   
+}
+
+.box2 {
+    font-size: 10px;
+}
+
+.box2 {
+    margin-top: 10px;
+    width: 100px;
+    height: 25px;
+    border: solid 2px #000;
+    background-color: white;
+    color: black;
+    position:absolute;
+    top: 90px;
+    left: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-3 {
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.company {
+    height: 200px;
+    width: 730px;
+    background: url(../img/company.jpeg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:white;
+    position: relative;
+}
+
+.kaisya-1 {
+    font-size: 30px;
+    position: absolute;
+    top: 38%;
+    left: 37%;
+}
+
+.company p {
+    font-size: 15px;
+    position: absolute;
+    top: 55%;
+    left: 44%;
+}
+
+.recruit {
+    height: 200px;
+    width: 730px;
+    background: url(../img/recruit.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    position: relative;
+}
+
+.saiyou-1 {
+    font-size: 30px;
+    position: absolute;
+    top: 38%;
+    left: 40%;
+}
+
+.recruit p {
+    font-size: 15px;
+    position: absolute; 
+    top: 55%;
+    left: 44%;
+}
+
+.main-4 {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.question {
+    height: 120px;
+    width: 1000px;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+.faq {
+    font-size: 32px;
+    position: absolute;
+    top: 37%;
+    left: 5%;
+}
+
+.main-4 p {
+    position: absolute;
+    top: 45%;
+    left: 46%;
+}
+
+.main-5 {
+    height: 700px;
+    width: 100%;
+    background: url(../img/contact-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    position: relative;
+}
+
+.ue {
+    position: absolute;
+    top: 40%;
+    left: 46%;
+}
+
+.contact {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.main-5 p {
+    font-size: 13px;
+    margin-left: 22px;
+    font-weight: bold;
+}
+
+.sita {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+}
+
+.otoiawase {
+    margin-left: 350px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: normal;
+
+}
+.box3 {
+    
+     margin-top: 30px;
+    width: 120px;
+    height: 30px;
+    border: solid 2px #FFFFFF;
+    color: #FFFFFF;
+    position: absolute; 
+    top: 60%;
+    left: 46%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box3 p {
+    padding-right: 10px;
+    margin-left: 10px;
+}
+
+.footer {
+    height:70px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.footer-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-logo {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.footer-nav ul {
+    display: flex;
+}
+
+.footer-nav li {
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.saigo {
+    font-size: 10px;
+    margin-left: 650px;
 }
