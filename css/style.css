@@ -177,11 +177,17 @@ input, select {
     text-align: left;
 }
 
+.time{
+    font-size: 13px;
+    margin-left: 5px;
+}
+
 .white p{
     font-size: 10px;
     line-height: 3;
     font-weight: normal;
     color: black;
+    margin-left: 20px;
     
 }
 .black {
@@ -320,20 +326,18 @@ input, select {
 .daimei-1 {
     font-size: 12px;
     margin-top: 13px;
-    margin-bottom: 12px;
-    font-weight: bold;
+    margin-bottom: 12px;  
 }
 
 .daimei-2 {
     font-size: 12px;
     margin-bottom: 12px;
-    font-weight: bold;
 }
 
 .bun {
     font-size: 12px;
     line-height: 20px;
-    font-weight: bold;
+
 
 }
 
