@@ -492,12 +492,6 @@ body {
 
 
 
-
-
-
-
-
-
 @media screen and (max-width: 768px) {
 
   #hamburger {
@@ -554,14 +548,33 @@ body {
   }
 
   .service-img {
-    width: 100%;
+    margin: 0 auto;
+    width: 90%;
+    
   }
 
   .service-content_inner {
+    position: static;
     width: 100%;
   }
 
+  .recruit {
+    flex-wrap: wrap;
+  }
 
+  .recruit-company_size {
+    width: 100%;
+    margin: 0 auto;
+  }
 
-  
+  .faq-title {
+    font-size: 30px;
+  }
+
+  .footer-logo {
+    margin:0 auto;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+  }
 }
