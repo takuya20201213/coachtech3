@@ -549,13 +549,14 @@ body {
 
   .service-img {
     margin: 0 auto;
-    width: 90%;
+    width: 80%;
     
   }
 
   .service-content_inner {
     position: static;
-    width: 100%;
+    width: 80%;
+    margin: 0 auto;
   }
 
   .recruit {
